@@ -9,14 +9,30 @@
 
 > Backup extension list to *ext.list*
 
+### For bash
+
 ```bash
 $ freeze_ext.sh
 ```
 
+### For cmd
+
+```bat
+> freeze_ext.bat
+```
+
 > Install extensions from *ext.list*
+
+### For bash
 
 ```bash
 $ install_ext.sh
+```
+
+### For cmd
+
+```bat
+> install_ext.bat
 ```
 
 ## Settings
