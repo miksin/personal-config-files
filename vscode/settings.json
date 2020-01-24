@@ -1,4 +1,5 @@
 {
+    "extensions.ignoreRecommendations": true,
     "editor.fontSize": 14,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Monokai",
