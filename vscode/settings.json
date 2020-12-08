@@ -36,5 +36,6 @@
     "workbench.list.automaticKeyboardNavigation": false,
     "workbench.startupEditor": "newUntitledFile",
     "editor.renderWhitespace": "boundary",
-    "editor.renderControlCharacters": true
+    "editor.renderControlCharacters": true,
+    "files.trimTrailingWhitespace": true
 }
